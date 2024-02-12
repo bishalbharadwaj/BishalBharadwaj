@@ -1,3 +1,25 @@
+#vContact Information
+        Research Fellow (Lead, Energy and Development theme) 
+        Curtin Institute for Energy Transition
+        WA School of Mines: Minerals, Energy and Chemical Engineering (WASM: MECE),
+        Curtin University
+        Perth, Australia
+        Mobile: +61 466563155
+        Email: bishal.bharadwaj@curtin.edu.au 
+        LinkedIn: linkedin.com/in/bbnepal
+        Website: https://staffportal.curtin.edu.au/staff/profile/view/bishal-bharadwaj-1d890f65/ 
+# Education 
+        2022		PhD from the University of Queensland, Australia (Conferred date: 7th October 2022)
+         School of Environment and Earth Science and School of Chemical Engineering
+         Supervisors: 	Prof. Peta Ashworth OAM, University of Queensland, Australia, and 
+        Prof. Subhrendu K. Pattanayak, Duke University, USA
+        Thesis title: Does context matters for Energy Access in Nepal?  
+        2016 	MSc, Climate Change, University College London, UK 			
+        2009 	MSc, Natural Resource Management and Rural Development, Institute of Forestry, TU, Nepal
+        2006 	BSC, Environmental Studies, TU, Nepal
+
+
+
 # Github Tutorial
 
 GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
